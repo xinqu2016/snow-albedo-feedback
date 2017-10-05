@@ -13,6 +13,7 @@ Qu X and A Hall, 2014: On the persistent spread in snow-albedo feedback. Climate
 | Frequency | Variable |  CMOR lables |  Unit  |  File Format |
 |:----------  |:--------------------|:----------------|:---------------|:------------|
 | monthly mean |downward shortwave flux at surface | rsds |  W m-2  | nc
+|             | upward shortwave flux at surface | rsus |  W m-2  | nc
 |             |surface temperature | tas  | K | nc 
 | constant    |land cover          | sftlf |  |nc
 
