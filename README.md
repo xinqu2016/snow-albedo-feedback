@@ -13,7 +13,7 @@ Qu X and A Hall, 2014: On the persistent spread in snow-albedo feedback. Climate
 | Frequency | Variable |  CMOR lables |  Unit  |  File Format |
 |:----------  |:--------------------|:----------------|:---------------|:------------|
 | monthly mean |downward shortwave flux at surface | rsds |  W m-2  | nc
-|             |Surface temperature | tas  | K | nc 
+|             |surface temperature | tas  | K | nc 
 | constant    |land cover          | sftlf |  |nc
 
 These variables were downloaded from https://esgf-node.llnl.gov/search/esgf-llnl/.
@@ -25,4 +25,4 @@ Intermediate output: time series of low cloud cover, EIS and SST during the peri
 
 Final output: EIS and SST slope averaged over five regions from 36 CMIP models [figures and nc file (SST_EIS_slope_CMIP5.nc), which only contains values for 18 CMIP5 models].
 
-Is a script to draw a figure in the paper included ?: No
+Is a script to draw the figure included ?: Yes
