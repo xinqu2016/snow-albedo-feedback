@@ -21,8 +21,8 @@ Sample input data is provided as compressed nc files. To use these data for the 
 
 # Output
 
-Intermediate output: time series of low cloud cover, EIS and SST during the period of 1900-1999. They are saved in the following files, respectively: low_cloud_time_series_1900_1999_CMIP5.nc, EIS_time_series_1900_1999_CMIP5.nc and SST_time_series_1900_1999_CMIP5.nc 
+Intermediate output: climatological mean surface albedo and surface air tmeperature averaged over northern hemisphere extratropical land masses in a suite of CMIP3 and CMIP5 models They are saved in the following files, respectively: surface_albedo_temperature_in_current_future_climate_CMIP3.nc and surface_albedo_temperature_in_current_future_climate_CMIP5.nc.
 
-Final output: EIS and SST slope averaged over five regions from 36 CMIP models [figures and nc file (SST_EIS_slope_CMIP5.nc), which only contains values for 18 CMIP5 models].
+Final output: The strength of snow-albedo feedback in a suite of CMIP3 and CMIP5 models (snow_albedo_feedback.nc).
 
 Is a script to draw the figure included ?: Yes
