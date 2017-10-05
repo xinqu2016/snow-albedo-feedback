@@ -22,7 +22,7 @@ Sample input data is provided as compressed nc files. To use these data for the 
 
 # Output
 
-Intermediate output: climatological mean surface albedo and surface air tmeperature averaged over northern hemisphere extratropical land masses in a suite of CMIP3 and CMIP5 models They are saved in the following files, respectively: surface_albedo_temperature_in_current_future_climate_CMIP3.nc and surface_albedo_temperature_in_current_future_climate_CMIP5.nc.
+Intermediate output: climatological mean surface albedo and surface air tmeperature averaged over northern hemisphere extratropical land masses for the current and future climates in a suite of CMIP3 and CMIP5 models. They are saved in the following files, respectively: surface_albedo_temperature_in_current_future_climate_CMIP3.nc and surface_albedo_temperature_in_current_future_climate_CMIP5.nc.
 
 Final output: The strength of snow-albedo feedback in a suite of CMIP3 and CMIP5 models (snow_albedo_feedback.nc).
 
