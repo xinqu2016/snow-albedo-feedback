@@ -1,4 +1,4 @@
-; compute regional-mean climatological surface albedo and temperature in 1980-1999 and 2080-2099 over northern hemisphere land mass (>30N) in 17 CMIP5 models
+; compute regional-mean climatological surface albedo and temperature in 1980-1999 and 2080-2099 over northern hemisphere land mass (>30N) in 17 CMIP3 models
  load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_code.ncl"
  load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_csm.ncl"
  load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/contributed.ncl"
